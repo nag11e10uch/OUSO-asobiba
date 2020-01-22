@@ -1,0 +1,11 @@
+title{
+    font-family: cursive;
+}
+
+.header{
+    font-family: fantasy;
+    text-align: center;
+    padding: 70px;
+    border:10px white;
+    margin: 50px;
+}
