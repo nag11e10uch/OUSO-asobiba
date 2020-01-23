@@ -27,7 +27,7 @@ body{
 }
 
 .rule{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .ruleUl{
@@ -35,9 +35,13 @@ body{
     text-align: center;
 }
 
+
+.page{
+    margin-top: 50px;
+}
 .recommend{
     text-align: left;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .recommendTitle{

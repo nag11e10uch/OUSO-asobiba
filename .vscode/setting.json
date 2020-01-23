@@ -34,5 +34,5 @@
   //  - 'on' (ビューポート折り返し),
   //  - 'wordWrapColumn' ('editor.wordWrapColumn' で折り返し) or
   //  - 'bounded' (ビューポートと 'editor.wordWrapColumn' の最小値で折り返し).
-  "editor.wordWrap": "off",
+  "editor.wordWrap": "off"
 }
