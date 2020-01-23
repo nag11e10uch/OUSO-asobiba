@@ -1,11 +1,46 @@
-title{
-    font-family: cursive;
+body{
+    margin: 100px;
+    background-color: burlywood;
+    color: cornsilk;
+    text-align: center;
 }
 
 .header{
-    font-size: 100px;
+    font-family: cursive;
+    font-size: 80px;
     text-align: center;
-    padding: 70px;
-    border:10px white;
-    margin: 50px;
+    padding: 50px;
+    border:10px solid cornsilk;
+    
+}
+
+.organizer{
+    margin-top: 30px;
+    text-align: right;
+}
+
+.title{
+    font-style: oblique;
+    background:rgb(71, 44, 7) ;
+    margin: 30px 200px 30px 200px;
+    text-align: center;
+}
+
+.rule{
+    margin-top: 30px;
+}
+
+.ruleUl{
+    font-size: 30px;
+    text-align: center;
+}
+
+.recommend{
+    text-align: left;
+    margin-top: 30px;
+}
+
+.recommendTitle{
+    margin: 20px;
+
 }

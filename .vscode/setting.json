@@ -8,9 +8,6 @@
   // ダーティ ファイルの自動保存を制御します。有効な値: 'off'、'afterDelay'、'onFocusChange' (エディターがフォーカスを失います)、'onWindowChange' (ウィンドウがフォーカスを失います)。'afterDelay' に設定すると、'files.autoSaveDelay' で遅延を構成できます。
   "files.autoSave": "off",
 
-  // フォント ファミリを制御します。
-  "editor.fontFamily": "Consolas, 'Courier New', monospace",
-
   // 1 つのタブに相当するスペースの数。`editor.detectIndentation` がオンの場合、この設定はファイル コンテンツに基づいて上書きされます。
   "editor.tabSize": 4,
 
@@ -38,8 +35,4 @@
   //  - 'wordWrapColumn' ('editor.wordWrapColumn' で折り返し) or
   //  - 'bounded' (ビューポートと 'editor.wordWrapColumn' の最小値で折り返し).
   "editor.wordWrap": "off",
-
-  // 言語に対するファイルの関連付け (例 "*.extension": "html") を構成します。これらの関連付けは、インストールされている言語の既定の関連付けより優先されます。
-  "files.associations": {}
-
 }
