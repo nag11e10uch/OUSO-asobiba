@@ -20,14 +20,25 @@ body{
 }
 
 .title{
-    font-style: oblique;
-    background:rgb(71, 44, 7) ;
-    margin: 30px 200px 30px 200px;
+    padding: 0.5em 1em;
+    margin: 15px;
+    background: rgb(120, 139, 32);
+    border-left: double 7px cornsilk;
+    border-right: double 7px cornsilk;
     text-align: center;
 }
 
 .rule{
-    margin-top: 50px;
+    margin: 30px 50px 100px 50px;
+}
+
+.ruleContent{
+    margin: 50px;
+    border: cornsilk solid 10px;
+    padding: 0.5em 1em;
+    background: rgb(51, 30, 6);
+    border-top: solid 10px rgb(120, 139, 32);
+    box-shadow: 0 4px 5px black;;
 }
 
 .ruleUl{
@@ -35,13 +46,17 @@ body{
     text-align: center;
 }
 
-
 .page{
-    margin-top: 50px;
+    margin: 100px 50px 100px 50px;
 }
+
+.pageContent{
+    margin: 50px;
+}
+
 .recommend{
     text-align: left;
-    margin-top: 50px;
+    margin: 100px 50px 100px 50px;
 }
 
 .recommendTitle{
