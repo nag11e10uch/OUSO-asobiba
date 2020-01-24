@@ -50,10 +50,6 @@ body{
     margin: 100px 50px 100px 50px;
 }
 
-.pageContent{
-    margin: 50px;
-}
-
 .recommend{
     text-align: left;
     margin: 100px 50px 100px 50px;
@@ -61,5 +57,4 @@ body{
 
 .recommendTitle{
     margin: 20px;
-
 }
